@@ -2,4 +2,4 @@
 New repo, mandatory to make in the first class
 
 
-hello, world!
+hello, world
